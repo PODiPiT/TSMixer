@@ -11,10 +11,10 @@ It extends the capacity of linear models by adding cross-variate feed-forward la
 
 Important links:
 
-Research Paper: https://arxiv.org/pdf/2303.06053v5.pdf
+* Research Paper: https://arxiv.org/pdf/2303.06053v5.pdf
 
-https://paperswithcode.com/paper/tsmixer-an-all-mlp-architecture-for-time
+* https://paperswithcode.com/paper/tsmixer-an-all-mlp-architecture-for-time
 
-Disk with our code: https://drive.google.com/corp/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy
+* Disk with our code: https://drive.google.com/corp/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy
 
-Source repo: https://github.com/google-research/google-research/tree/master/tsmixer
+* Source repo: https://github.com/google-research/google-research/tree/master/tsmixer
