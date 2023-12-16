@@ -10,6 +10,9 @@ Pratik Das - 200575834
 
 Important links:
 https://arxiv.org/pdf/2303.06053v5.pdf
+
 https://paperswithcode.com/paper/tsmixer-an-all-mlp-architecture-for-time
+
 https://drive.google.com/corp/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy
+
 https://github.com/google-research/google-research/tree/master/tsmixer
