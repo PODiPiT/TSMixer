@@ -1,8 +1,8 @@
 # TSMixer
 
 Georgian student ids:
-Alexandr Nikitin - 200551730
-Pratik Das - 200575834
+* Alexandr Nikitin - 200551730
+* Pratik Das - 200575834
 
 TSMixer is an an all-MLP model specifically designed for multivariate time series forecasting.
 
